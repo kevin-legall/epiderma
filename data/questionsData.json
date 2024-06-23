@@ -1,0 +1,78 @@
+[
+    {
+        "id": "81ff799b-fd33-4256-ae55-259bf8f0f9e3",
+        "libelle": "Quel est votre couleur de peau ?",
+        "ordre": 1,
+        "choix": [
+            {"id": "2ef4412b-8346-4cf1-bc3c-fc83d27ac363", "typeChoix": 0, "libelle": "matte/hâlé", "selected": false},
+            {"id": "f1e2bd7b-a0d6-4446-a576-ce2c50f9cab5", "typeChoix": 0, "libelle": "clair", "selected": false},
+            {"id": "8b87e980-619e-4119-8b0f-65509f82c4e0", "typeChoix": 0, "libelle": "ébène", "selected": false}
+        ]
+    },
+    {
+        "id": "b72dc97d-2ffc-4070-bc2d-15104eefc8ea",
+        "libelle": "Comment ressentez-vous/quel est l'aspect de votre peau au quotidien ?",
+        "ordre": 2,
+        "choix": [
+            {"id": "8302efcd-7b5f-4021-8cc1-9598b1cff42f", "typeChoix": 0, "libelle": "sèche/qui tiraille", "selected": false},
+            {"id": "a72a084a-e2bc-455d-bde5-03287655c20b", "typeChoix": 0, "libelle": "grasse/luisante", "selected": false},
+            {"id": "bcefe531-2aa2-4a8a-901a-4330059ef5da", "typeChoix": 0, "libelle": "grasse seulement sur la zone T (le front, le menton et le nez)", "selected": false},
+            {"id": "8a3a158f-b6d9-4889-bc07-3ae63e4e5f96", "typeChoix": 0, "libelle": "sensible (tendance à rougir)", "selected": false},
+            {"id": "001b804b-65b3-4bfd-8fce-e1016ec738f9", "typeChoix": 0, "libelle": "ridée", "selected": false}
+        ]
+    },
+    {
+        "id": "838b281f-74f2-4924-8250-cfced6b4b666",
+        "libelle": "Avez-vous des problèmes cutanés ?",
+        "ordre": 3,
+        "choix": [
+            {"id": "63a7e9ff-a596-467f-9493-dc3e1e08e337", "typeChoix": 0, "libelle": "psoriasis", "selected": false},
+            {"id": "6206abda-a4a3-4cb0-b96d-2b29c760b4cc", "typeChoix": 0, "libelle": "acné prononcée", "selected": false},
+            {"id": "6e725fa4-c91f-4f4e-86b2-b6d1d87d28a5", "typeChoix": 0, "libelle": "acné légère", "selected": false},
+            {"id": "1d6c1dfb-7812-4f9f-aacb-c43b72adf7f5", "typeChoix": 0, "libelle": "problèmes vasculaires (erythrose, ...)", "selected": false}
+        ]
+    },
+    {
+        "id": "daf6ee7b-4ed4-46dd-8b0c-d42665bedb90",
+        "libelle": "Prenez-vous soin de votre peau le matin et/ou le soir ?",
+        "ordre": 4,
+        "choix": [
+            {"id": "15ec9a13e-6686-412f-b2ea-390f52de8f9", "typeChoix": 0, "libelle": "le matin", "selected": false, "nextQuestion": "dd206f64-6540-4bd2-b61d-8821988f83da"},
+            {"id": "7726df4b-8860-4410-b39b-7c75dc11a652", "typeChoix": 0, "libelle": "le soir", "selected": false, "nextQuestion": "dd206f64-6540-4bd2-b61d-8821988f83da"},
+            {"id": "82c256d2-9b7c-42b0-a65e-6d678bb633be", "typeChoix": 0, "libelle": "les deux", "selected": false, "nextQuestion": "dd206f64-6540-4bd2-b61d-8821988f83da"},
+            {"id": "e3dd66d4-eb34-4104-89ac-1eb78021475f", "typeChoix": 1, "libelle": "aucun des deux", "selected": false, "nextQuestion": "613f0903-3fc1-4b4a-a768-217a3fe584ff"}
+        ]
+    },
+    {
+        "id": "dd206f64-6540-4bd2-b61d-8821988f83da",
+        "libelle": "Si oui, Quel est votre routine ?",
+        "ordre": 5,
+        "choix": [
+            {"id": "d4613167-2759-42ce-a564-37d0f48baadd", "typeChoix": 0, "libelle": "routine légère : juste une crème visage", "selected": false},
+            {"id": "1bc988bd-55c3-48e2-8c4c-bfee7499e357", "typeChoix": 0, "libelle": "routine complète : lotion nettoyante + sérum + crème visage", "selected": false},
+            {"id": "df4c8c7e-7e98-46e5-898f-5920d52eb071", "typeChoix": 0, "libelle": "utilisation d'une creme avec un SPF (protection solaire)", "selected": false}
+        ]
+    },
+    {
+        "id": "613f0903-3fc1-4b4a-a768-217a3fe584ff",
+        "libelle": "Qu'attendez-vous de ce questionnaire ?",
+        "ordre": 6,
+        "choix": [
+            {"id": "11366de3-0660-4091-b37d-f3f4fa495d52", "typeChoix": 0, "libelle": "d'adopter une routine qui correspond à mon type de peau", "selected": false},
+            {"id": "e438eb03-e287-4de5-8d50-7518819db130", "typeChoix": 0, "libelle": "m'informer", "selected": false},
+            {"id": "ee101fee-864b-462a-ab57-530e54508249", "typeChoix": 0, "libelle": "me protéger des agressions extérieures", "selected": false},
+            {"id": "fb470861-d668-4e7e-8c24-e8f480d43dcf", "typeChoix": 0, "libelle": "qu'il m'aide à régler certains de mes problèmes de peau", "selected": false},
+            {"id": "8b8d2253-3f59-47f5-81f8-5d7073ee8e33", "typeChoix": 1, "libelle": "autres", "selected": false}
+        ]
+    },
+    {
+        "id": "3ab1ed1a-3e2f-45c6-baa5-94024c3354fe",
+        "libelle": "A quel moment de la journée préférez-vous effectuer cette routine ?",
+        "ordre": 7,
+        "choix": [
+            {"id": "77179b93-2e7e-4181-9fec-50e34180a267", "typeChoix": 0, "libelle": "matin", "selected": false},
+            {"id": "85d955dd-dfeb-4e09-8b83-f68fa33dbda9", "typeChoix": 0, "libelle": "soir", "selected": false},
+            {"id": "c788410e-c9da-4193-8895-fc8809172b8a", "typeChoix": 0, "libelle": "matin et soir", "selected": false}
+        ]
+    }
+]

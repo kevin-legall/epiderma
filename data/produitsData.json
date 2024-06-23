@@ -1,0 +1,119 @@
+[
+    {
+        "id": "ed7cc981-11d7-41e1-b8b6-7a6c95c0155c",
+        "nom": "Crème Anti-Pollution",
+        "prix": "51,50",
+        "image": "./images/creme-anti-pollution.jpeg",
+        "lien": "https://www.phyts.com/product/creme-anti-pollution",
+        "texture": "Crème",
+        "typesPeau": ["Grasse"]
+    },
+    {
+        "id": "ec4c34a8-8324-46ff-b5ab-9b883fe2e66e",
+        "nom": "Gel Nettoyant Oxygénant",
+        "prix": "21,40",
+        "image": "./images/gel-nettoyant.jpeg",
+        "lien": "https://www.phyts.com/product/gel-nettoyant-oxygenant",
+        "texture": "Gel",
+        "typesPeau": ["Grasse"]
+    },
+    {
+        "id": "c526cb9b-f1e7-4967-8c59-5d7f107bd9db",
+        "nom": "Soin Matifiant Homme",
+        "prix": "31,30",
+        "image": "./images/soin-matifiant-homme.jpeg",
+        "lien": "https://www.phyts.com/product/soin-matifiant-homme",
+        "texture": "Crème",
+        "typesPeau": ["Grasse"]
+    },
+    {
+        "id": "f8b27d67-69a1-4d70-afdb-d5d5d638e82b",
+        "nom": "Eau Micellaire Bioderma sebio H2O",
+        "prix": "11,89",
+        "image": "./images/sebium-h2o.webp",
+        "lien": "https://www.easypara.fr/solution-micellaire-500ml-sebium-h2o-peaux-grasses-a-problemes-bioderma.html",
+        "texture": "Liquide",
+        "typesPeau": ["Grasse"]
+    },
+    {
+        "id": "f018844e-01c5-496e-bb24-8aa8be924198",
+        "nom": "Sérum exfoliant",
+        "prix": "27,99",
+        "image": "./images/serum-exfoliant.webp",
+        "lien": "https://www.eau-thermale-avene.fr/p/cleanance-serum-exfoliant-a-h-a-3282770390469-14c39aab",
+        "texture": "Liquide",
+        "typesPeau": []
+    },
+    {
+        "id": "dc3a9f8a-fb4c-4e11-bb7b-7f08cfb06d1f",
+        "nom": "Effaclar Mat sébo-régulateur",
+        "prix": "14,20",
+        "image": "./images/effaclar-mat.jpeg",
+        "lien": "https://www.laroche-posay.fr/gammes/visage/effaclar/effaclar-mat/LRP_052.html",
+        "texture": "Crème",
+        "typesPeau": ["Grasse"]
+    },
+    {
+        "id": "29a7d7f2-4be1-4ec0-bf27-60decd7810c3",
+        "nom": "Lipikar Surgras",
+        "prix": "7,00",
+        "image": "./imageslipikar-surgras.jpeg",
+        "lien": "https://www.laroche-posay.fr/lipikar-pain-surgras/LRP_099.html",
+        "texture": "Crème",
+        "typesPeau": ["Sensible", "Sèche", "Ridée"]
+    },
+    {
+        "id": "31f3a34c-63ff-4dcb-8cb2-22030d79e3d8",
+        "nom": "Sérum acide hyaluronique Aromazone",
+        "prix": "5,95",
+        "image": "./images/Serum-Hyaluronique.webp",
+        "lien": "https://www.aroma-zone.com/info/fiche-technique/serum-concentre-dacide-hyaluronique-aroma-zone",
+        "texture": "Liquide",
+        "typesPeau": ["Sèche", "Déshydratée", "Mature"]
+    },
+    {
+        "id": "d2f3ebc2-b1fb-4bc8-94c6-43c76c3e99e2",
+        "nom": "Crème collagène lissant",
+        "prix": "34,90",
+        "image": "./images/creme-collagene.webp",
+        "lien": "https://kreme-paris.com/products/creme-collagene-anti-rides",
+        "texture": "Crème",
+        "typesPeau": ["Ridée", "Sensible"]
+    },
+    {
+        "id": "a7b8b41b-ba7e-4853-a500-80eb326157a3",
+        "nom": "Baume Miel nettoyant démaquillant",
+        "prix": "27,60",
+        "image": "./images/baume-miel.jpeg",
+        "lien": "https://www.condense-paris.com/fr/demaquillant-nettoyant-visage/baume-miel-nettoyant-demaquillant-78.html",
+        "texture": "Baume",
+        "typesPeau": ["Ridée", "Sèche", "Sensible"]
+    },
+    {
+        "id": "b2fc3a6b-334b-45c3-9dfb-294ad18c60bc",
+        "nom": "Sérum concentré Rétinal Optimisé",
+        "prix": "6,95",
+        "image": "./images/serum-retinal.webp",
+        "lien": "https://www.aroma-zone.com/info/fiche-technique/serum-concentre-retinol-optimise",
+        "texture": "Liquide",
+        "typesPeau": ["Ridée"]
+    },
+    {
+        "id": "e9e0478a-1187-4f24-ae7d-268d9d407b90",
+        "nom": "Diadermine lift + hydratant",
+        "prix": "15,58",
+        "image": "",
+        "lien": "https://www.idealo.fr/prix/4404201/diadermine-lift-hydratant-jour-50-ml.html",
+        "texture": "Crème",
+        "typesPeau": []
+    },
+    {
+        "id": "1b879c9f-c873-4eb4-9811-49c818f42e3a",
+        "nom": "Noreva Psoriane crème apaisante",
+        "prix": "9,99",
+        "image": "./images/psoriane-creme.jpeg",
+        "lien": "https://www.parapharmadirect.com/psoriane-creme-apaisante-hydratante-ther",
+        "texture": "Crème",
+        "typesPeau": ["Psoriasis"]
+    }
+]
